@@ -1,0 +1,23 @@
+.main {
+  height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.main-content{
+  width: 720px;
+  margin: 30px;
+}
+
+
+.top-3-product-title {
+  margin-bottom: 25px;
+  margin-top: 0px;
+}
+
+.top-3-product-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

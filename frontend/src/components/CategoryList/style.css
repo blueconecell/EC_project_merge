@@ -1,0 +1,26 @@
+.category-list-box{
+    width: 230px;
+    height: 410px;
+    display: flex;
+    box-sizing: border-box;
+    padding: 30px 60px;
+
+    flex-direction: column;
+    row-gap: 21px;
+    border: solid;
+    border-width: 0px 1px 1px 1px;
+    border-color: #BABABA80;
+    align-items: center;
+  }
+.category-list-title{
+    height: 36px;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+.category-list-content{
+    height: 19px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
